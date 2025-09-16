@@ -12,4 +12,26 @@ The simulation includes:
 
 Project Structure
 
--
+-[IAM Solution Design for TechCorp.pdf](IAM Solution Design for TechCorp.pdf)-Written report version of the plan.
+-[Implementation Plan for TechCorp's.pdf](Implementation Plan for TechCorp's.pdf)-PowerPoint presentation with detailed implementation plan.
+
+Implementation Roadmap (Summary)
+
+-Assessment & Planning – Evaluate current state, identify gaps
+-Design – Create IAM architecture, lifecycle automation, access control framework
+-Implementation – Configure IAM platform, integrate with HR, cloud, and third-party apps
+-Testing – Unit, integration, UAT, and security testing
+-Go-Live – Phased rollout, training, and support readiness
+-Monitoring & Continuous Improvement – Real-time monitoring, compliance, periodic reviews
+
+Key Learnings
+
+-IAM requires both technical design and business alignment
+-Automation improves efficiency and reduces security risks
+-Integration is the biggest challenge, especially with legacy systems
+-Balancing security (MFA, RBAC) and user experience (SSO, self-service) is essential
+-Continuous monitoring and governance sustain IAM effectiveness
+
+Acknowledgment
+
+-This simulation has been an excellent opportunity to strengthen my knowledge of IAM and practice project planning, aligning technical solutions with business goals.
