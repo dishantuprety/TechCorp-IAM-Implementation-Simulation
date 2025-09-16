@@ -35,3 +35,7 @@ Key Learnings
 Acknowledgment
 
 This simulation has been an excellent opportunity to strengthen my knowledge of IAM and practice project planning, aligning technical solutions with business goals.
+
+Certificate
+You can view my [IAM Simulation Completion Certificate](IAM_Simulation_Completion_Certificate)
+Issued by Forage on September, 2025
