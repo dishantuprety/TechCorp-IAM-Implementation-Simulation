@@ -12,8 +12,8 @@ The simulation includes:
 
 Project Structure
 
-- [IAM Solution Design for TechCorp.pdf](IAM%20Solution%20Design%20for%20TechCorp.pdf) - Written report version of the plan.
-- [Implementation Plan for TechCorp's.pdf](Implementation%20Plan%20for%20TechCorp%E2%80%99s.pdf) - PowerPoint presentation with detailed implementation plan.
+- [IAM Solution Design for TechCorp](IAM%20Solution%20Design%20for%20TechCorp.pdf) - Written report version of the plan.
+- [Implementation Plan for TechCorp's](Implementation%20Plan%20for%20TechCorp%E2%80%99s.pdf) - PowerPoint presentation with detailed implementation plan.
 
 Implementation Roadmap (Summary)
 
